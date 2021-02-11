@@ -1,0 +1,1 @@
+# ansible-role-high-availability-pacemaker-corosync-pscd
